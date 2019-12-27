@@ -7,7 +7,8 @@
   mer = merge --no-ff
   h = help
 [user]
-	email = brian.shee@streetlightdata.com
-	name = Brian Shee
+  email = brian.shee@streetlightdata.com
+  name = Brian Shee
 [core]
-	editor = vim
+  editor = vim
+  excludesfile = ~/.gitignore
