@@ -1,10 +1,10 @@
 [alias]
-	co = checkout
-	st = status -s
+  co = checkout
+  st = status -s
   br = branch
   ci = commit
   updev = fetch origin develop:develop
-	mer = merge --no-ff
+  mer = merge --no-ff
   h = help
 [user]
 	email = brian.shee@streetlightdata.com
